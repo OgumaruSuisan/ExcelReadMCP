@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "excel-read-tools": {
+      "command": "<absolute-path-to-ExcelReadMCP>/start_mcp_server.bat",
+      "transport": "stdio",
+      "cwd": "<absolute-path-to-ExcelReadMCP>"
+    }
+  }
+}
